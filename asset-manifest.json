@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NovikoffOleh/corruption_qwiz.git/static/css/main.7acaea2f.css",
-    "main.js": "/NovikoffOleh/corruption_qwiz.git/static/js/main.07d3183d.js",
+    "main.css": "/NovikoffOleh/corruption_qwiz.git/static/css/main.d6dc0b35.css",
+    "main.js": "/NovikoffOleh/corruption_qwiz.git/static/js/main.64f0d739.js",
     "index.html": "/NovikoffOleh/corruption_qwiz.git/index.html",
-    "main.7acaea2f.css.map": "/NovikoffOleh/corruption_qwiz.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/NovikoffOleh/corruption_qwiz.git/static/js/main.07d3183d.js.map"
+    "main.d6dc0b35.css.map": "/NovikoffOleh/corruption_qwiz.git/static/css/main.d6dc0b35.css.map",
+    "main.64f0d739.js.map": "/NovikoffOleh/corruption_qwiz.git/static/js/main.64f0d739.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.d6dc0b35.css",
+    "static/js/main.64f0d739.js"
   ]
 }
